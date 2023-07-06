@@ -1,0 +1,37 @@
+/* body{
+    background-image: url(nature.jpeg);
+    
+    background-size: cover;
+} */
+
+.wrapper {
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 8em;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 4px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  }
+
+  .form-group{
+    margin-block: 1em;
+  }
+
+  h2, p{
+    text-align: center;
+  }
+
+  .input{
+    display: block;
+    width: 80%;
+    margin: 0 auto;
+  }
+
+label{
+    margin-left: 10%;
+  }
+
+  .btn{
+    margin-left: 10%;
+  }
